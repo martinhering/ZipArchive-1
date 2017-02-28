@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		01DB08731D88095600D335B9 /* SSZipCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 389869341D5BC30100F18782 /* SSZipCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		389869351D5BC30100F18782 /* SSZipCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 389869341D5BC30100F18782 /* SSZipCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		87ACF3EA1D2DAFAD00ED2F7E /* SSZipArchive+Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ACF3E91D2DAFAD00ED2F7E /* SSZipArchive+Swift.swift */; };
 		AFF75A2D1C3727F000F450AC /* ZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = B423AE4A1C0DF7950004A2F1 /* ZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AFF75A2E1C37280200F450AC /* SSZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = B423AE481C0DF7950004A2F1 /* SSZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AFF75A2F1C37280200F450AC /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = B423AE491C0DF7950004A2F1 /* SSZipArchive.m */; };
@@ -397,7 +396,6 @@
 			files = (
 				B423AE5C1C0DF7950004A2F1 /* pwd2key.c in Sources */,
 				B423AE581C0DF7950004A2F1 /* hmac.c in Sources */,
-				87ACF3EA1D2DAFAD00ED2F7E /* SSZipArchive+Swift.swift in Sources */,
 				B423AE4D1C0DF7950004A2F1 /* aescrypt.c in Sources */,
 				B423AE5E1C0DF7950004A2F1 /* sha1.c in Sources */,
 				B423AE631C0DF7950004A2F1 /* ioapi.c in Sources */,
